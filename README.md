@@ -1,3 +1,10 @@
-# Custom-Lua-Thread-Scheduler
+**What is this?**
+This is a custom Roblox Lua thread scheduler. (Uses functions from Roblox)
 
-Basically, this is a custom thread scheduler made for Roblox. I'll add usage later.
+**Notes**
+None of this is tested and I'm not finished with it.
+
+**Examples**
+
+> local TaskExample = Task("Example", function(...) print(...) end end)
+> 	Scheduler:Start(TaskExample, "Example") 	Scheduler:Stop(TaskExample)
