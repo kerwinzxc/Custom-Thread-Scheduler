@@ -2,7 +2,7 @@
 This is a custom Roblox Lua thread scheduler. (Uses functions from Roblox)
 
 **Notes**
-None of this is tested and I'm not finished with it.
+None of this is tested and I might add more later.
 
 **Examples**
 
